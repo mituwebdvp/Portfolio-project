@@ -79,6 +79,7 @@
 
 .details .paragraph {
    font-size:15px;
+   margin:10px 0;
 }
 
 
@@ -173,7 +174,7 @@ li:hover a {
 
 
 .dropdown-section {
-   background:rgba(255, 255, 255, 0.945);
+   background:white;
    width:1235px;
    justify-content:center;
    gap:100px; 
